@@ -1,11 +1,11 @@
 {
-  "name": "xxx-component",
-  "version": "0.0.12",
+  "name": "react-infinite-scroll-hooks",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
-    "xxx component",
+    "react-infinite-scroll-hooks component",
     "javascript"
   ],
   "workspaces": [
